@@ -1,3 +1,4 @@
+package level0;
 import java.util.Scanner;
 
 public class Solution {
