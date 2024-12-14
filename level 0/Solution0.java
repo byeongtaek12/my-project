@@ -6,5 +6,4 @@ public class Solution0{
         System.out.println("3\n2\n1");
         System.out.println(message);
     }
-}
-
+}//문자 출력
